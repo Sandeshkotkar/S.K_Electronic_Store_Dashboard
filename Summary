@@ -1,0 +1,8 @@
+S.K_Electronic_Store_Dashboard
+
+Project: Created interactive Dashboard by visualizations & charts in Power BI, to track Sales Growth, KPI according to State wise, Products and Respective Supervisors.
+
+Steps: 
+1. Used DAX queries and New columns for Transformation in data.
+2. Used diffrent charts, Filters & Slicers to identify the proper overview.
+3. used Maps and KPI's to track the Growth & Degrowth.
