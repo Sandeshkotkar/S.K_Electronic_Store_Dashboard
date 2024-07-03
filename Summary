@@ -6,3 +6,16 @@ Steps:
 1. Used DAX queries and New columns for Transformation in data.
 2. Used diffrent charts, Filters & Slicers to identify the proper overview.
 3. used Maps and KPI's to track the Growth & Degrowth.
+4. SQL used as data source from Database by MySQL by using 2 tables to create 2 dashboards.
+
+Result:
+
+1. Swipe payment dominate Revenue Generation
+2. Graduate Contribution the most revenue among others educational group 
+3. 40 - 50 age group generate highest revenue.
+4. California has the highest percentage of defaulters.
+5. Silver, Gold & Platinum showing less sales compare to blue card.
+6. Age group between 20 - 30 and 60 + were generate less revenue as compare to other range of age.
+
+
+
